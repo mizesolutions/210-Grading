@@ -29,7 +29,7 @@ class Methods3 {
    
    /* 
       takes an int array, and an int bound, uses Random.nextInt(int bound)
-      to fill the array with random integers and returns the filled array.
+      to fill the array with random integers.
    */
    public static void arrayFill(int[] array, int b) {
       

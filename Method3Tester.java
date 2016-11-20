@@ -14,7 +14,7 @@
                the string is at position 0.
                
     arrayFill - takes an int array, and an int bound, uses Random.nextInt(int bound)
-                to fill the array with random integers and returns the filled array.
+                to fill the array with random integers.
                 
     squareOfAsterisks - takes a single int for the number of rows and colums. 
                         Prints out a square made of astrisks that has an equal 

@@ -1,3 +1,13 @@
+/*   
+   Method 3 Assignment
+   CSCD 210 Grading
+   Brian Kamp
+   10/25/16
+   
+   @author: Brian Mize 
+   
+*/
+
 import java.util.Random;
 
 class Methods3 {
